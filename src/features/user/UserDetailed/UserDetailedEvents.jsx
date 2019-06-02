@@ -2,7 +2,6 @@ import React from 'react';
 import {
   Segment,
   Header,
-  Menu,
   Grid,
   Card,
   Image,
